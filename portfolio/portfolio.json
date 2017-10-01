@@ -29,6 +29,10 @@
 			"image": "http://data.mavo.io/portfolio/images/web-electric3.jpg",
 			"name": "Web electric3",
 			"@type": "Painting"
+		},
+		{
+			"image": "https://cdn.rawgit.com/julientaq/data/2296b21d3d4507487ee3a44748e53bc3ce90c9a9/portfolio/images/Capture%20du%202017-09-27%2012-57-32.png",
+			"name": "Capture%20du%202017 09 27%2012 57 32"
 		}
 	]
 }
